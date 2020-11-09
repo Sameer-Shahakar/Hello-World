@@ -1,5 +1,3 @@
 # Hello-World
 First
-TESTING NEW EDITS
-THIS IS DONE TO LEARN GIT
-THANKS
+I am removing this code as it is not required.
